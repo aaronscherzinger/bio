@@ -3,8 +3,7 @@
 ## Academic Education
 
 2014-2018      
-**PhD (Dr. rer. nat.)**, Computer Science, University of Münster, Germany, _Magna Cum Laude_.
-
+**PhD (Dr. rer. nat.)**, Computer Science, University of Münster, Germany, _Magna Cum Laude_.  
 Work in _Visualization_, _Computer Graphics_, _Image Processing and Analysis_, _Machine Learning_.
 
 2012-2014  
