@@ -3,13 +3,13 @@
 ## Academic Education
 
 2014-2018      
-**PhD (Dr. rer. nat.)**, Computer Science, University of Münster, Magna Cum Laude.
+**PhD (Dr. rer. nat.)**, Computer Science, University of Münster, Germany, _Magna Cum Laude_.
 
 2012-2014  
-**Master of Science**, Computer Science, University of Münster, Graduation with Distinction.
+**Master of Science**, Computer Science, University of Münster, Germany, _Graduation with Distinction_.
 
 2008-2012  
-**Bachelor of Science**, Computer Science, University of Münster.
+**Bachelor of Science**, Computer Science, University of Münster, Germany.
 
 ## Professional Career
 
