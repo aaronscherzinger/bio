@@ -13,14 +13,14 @@
 
 ## Professional Career
 
-since 2019  
-UI Middleware Programmer at Ubisoft Blue Byte, Mainz, Germany.
+2019--_present_  
+**UI Middleware Programmer** at Ubisoft Blue Byte, Mainz, Germany.
 
 2014--2019  
-Research Associate at the Department of Computer Science, University of Münster, Germany.
+**Research Associate** at the Department of Computer Science, University of Münster, Germany.
 
 2011--2014  
-Student Assistant at the Department of Computer Science, University of Münster, Germany.
+**Student Assistant** at the Department of Computer Science, University of Münster, Germany.
 
 ## Honors and Awards
 
