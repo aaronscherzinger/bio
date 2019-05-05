@@ -5,6 +5,8 @@
 2014-2018      
 **PhD (Dr. rer. nat.)**, Computer Science, University of Münster, Germany, _Magna Cum Laude_.
 
+Work in _Visualization_, _Computer Graphics_, _Image Processing and Analysis_, _Machine Learning_.
+
 2012-2014  
 **Master of Science**, Computer Science, University of Münster, Germany, _Graduation with Distinction_.
 
