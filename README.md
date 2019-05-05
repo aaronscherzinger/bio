@@ -1,2 +1,43 @@
-# bio
-CV Aaron Scherzinger
+# CV Aaron Scherzinger
+
+## Academic Education
+
+2014--2018      
+**PhD (Dr. rer. nat.)**, Computer Science, University of Münster, Magna Cum Laude.
+
+2012--2014  
+**Master of Science**, Computer Science, University of Münster, Graduation with Distinction.
+
+2008--2012  
+**Bachelor of Science**, Computer Science, University of Münster.
+
+## Professional Career
+
+since 2019  
+UI Middleware Programmer at Ubisoft Blue Byte, Mainz, Germany.
+
+2014--2019  
+Research Associate at the Department of Computer Science, University of Münster, Germany.
+
+2011--2014  
+Student Assistant at the Department of Computer Science, University of Münster, Germany.
+
+## Honors and Awards
+
+2015  
+IEEE Visualization Contest 2015 – Winning Entry
+
+2013--2014  
+Scholarship of the Rosa-Luxemburg-Foundation
+
+## Open Source Software Projects
+
+2017--2019  
+Barista – a Graphical Tool for Designing and Training Deep Neural Networks [barista.uni-muenster.de]
+
+2014--2019  
+Voreen – Volume Rendering Engine [voreen.uni-muenster.de]
+
+## Publications
+
+For a full list of publications, please refer to my [Google Scholar profile](https://scholar.google.de/citations?user=NtnR690AAAAJ&hl=en).
