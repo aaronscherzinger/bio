@@ -2,7 +2,7 @@
 
 ## Academic Education
 
-2014--2018      
+2014-2018      
 **PhD (Dr. rer. nat.)**, Computer Science, University of Münster, Magna Cum Laude.
 
 2012-2014  
@@ -33,10 +33,10 @@ Scholarship of the Rosa-Luxemburg-Foundation
 ## Open Source Software Projects
 
 2017-2019  
-Barista – a Graphical Tool for Designing and Training Deep Neural Networks [barista.uni-muenster.de]
+Barista - a Graphical Tool for Designing and Training Deep Neural Networks [barista.uni-muenster.de]
 
 2014-2019  
-Voreen – Volume Rendering Engine [voreen.uni-muenster.de]
+Voreen - Volume Rendering Engine [voreen.uni-muenster.de]
 
 ## Publications
 
