@@ -16,7 +16,7 @@ Work in _Scientific Visualization_, _Computer Graphics_, _Image Processing and A
 ## Professional Career
 
 2019-_present_  
-**UI Middleware Programmer** at Ubisoft Blue Byte, Mainz, Germany.
+**UI Middleware Programmer** at Ubisoft Mainz, Germany.
 
 2014-2019  
 **Research Associate** at the Department of Computer Science, University of Münster, Germany.
