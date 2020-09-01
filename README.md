@@ -15,7 +15,7 @@ Work in _Scientific Visualization_, _Computer Graphics_, _Image Processing and A
 
 ## Professional Career
 
-2020-_present_
+2020-_present_ 
 **3D Programmer** at Ubisoft Mainz, Germany.
 
 2019-2020  
